@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import BackgroundDay from './img/day.jpg';
-import BackgroundNight from './img/night.jpg';
+import BackgroundDay from './img/.day.jpg.icloud';
+import BackgroundNight from './img/.night.jpg.icloud';
 
 export default class App extends React.Component {
 
