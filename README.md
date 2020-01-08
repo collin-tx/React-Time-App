@@ -1,4 +1,4 @@
-##TIME APP
+## TIME APP
 
 Wouldn't you like to know the time? 
 
